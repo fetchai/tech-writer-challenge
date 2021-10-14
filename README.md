@@ -1,4 +1,4 @@
-# Example Documenation
+# Technical Writer Challenge
 
 ## Introduction
 
